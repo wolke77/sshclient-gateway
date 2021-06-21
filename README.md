@@ -34,3 +34,7 @@ Instead of ssh, it can also be used to forward http or any other port.
 The gateway.sh script is just the default command. it can be overwritten to start a simple `/bin/bash` or another `ssh` or `git` command
 
 Launch shell: `docker-compose run sshclient /bin/bash`
+
+## License
+
+Apache 2.0
